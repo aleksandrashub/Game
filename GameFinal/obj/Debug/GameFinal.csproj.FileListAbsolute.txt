@@ -1,0 +1,8 @@
+D:\GameFinal\GameFinal\bin\Debug\GameFinal.exe.config
+D:\GameFinal\GameFinal\bin\Debug\GameFinal.exe
+D:\GameFinal\GameFinal\bin\Debug\GameFinal.pdb
+D:\GameFinal\GameFinal\obj\Debug\GameFinal.csproj.AssemblyReference.cache
+D:\GameFinal\GameFinal\obj\Debug\GameFinal.csproj.SuggestedBindingRedirects.cache
+D:\GameFinal\GameFinal\obj\Debug\GameFinal.csproj.CoreCompileInputs.cache
+D:\GameFinal\GameFinal\obj\Debug\GameFinal.exe
+D:\GameFinal\GameFinal\obj\Debug\GameFinal.pdb
